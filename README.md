@@ -272,6 +272,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [SimianArmy](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your AWS cloud operating in top form.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
+* [Vector](https://github.com/Netflix/vector) - On-host performance monitoring framework which exposes hand picked high resolution system and application metrics.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
 * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
 * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.
