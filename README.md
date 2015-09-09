@@ -96,6 +96,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 
 ## Cloud Orchestration
 
+* [Asgard](https://github.com/Netflix/asgard) - Netflix Asgard is a web interface for application deployments and cloud management in Amazon Web Services (AWS).
 * [BOSH](http://docs.cloudfoundry.org/bosh/) -  IaaS orchestration platform originally written for deploying and managing Cloud Foundry PaaS, but also useful for general purpose distributed systems.
 * [Cloudify](http://www.getcloudify.org/) -  Open source TOSCA-based cloud orchestration software platform written in Python and YAML.
 * [Juju](https://juju.ubuntu.com/) - Cloud orechestration tool which manages services as charms, YAML configuration and deployment script bundles.
