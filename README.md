@@ -255,6 +255,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
 * [Exhibitor](https://github.com/Netflix/exhibitor) - Exhibitor is a supervisor system for ZooKeeper.
+* [Ice](https://github.com/Netflix/ice) - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [Inspeqtor](https://github.com/mperham/inspeqtor) - for monitoring your application infrastructure.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
