@@ -254,6 +254,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Centreon](http://www.centreon.com) - IT infrastructure and application monitoring for service performance.
 * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
 * [Dash](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+* [Exhibitor](https://github.com/Netflix/exhibitor) - Exhibitor is a supervisor system for ZooKeeper.
 * [Icinga](https://www.icinga.org/) - Fork of Nagios.
 * [Inspeqtor](https://github.com/mperham/inspeqtor) - for monitoring your application infrastructure.
 * [LibreNMS](https://github.com/librenms/librenms/) - fork of Observium.
