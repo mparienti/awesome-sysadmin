@@ -269,8 +269,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
 * [Sensu](http://sensuapp.org/) - Open source monitoring framework.
 * [Sentry](https://getsentry.com/) - Application monitoring, event logging and aggregation.
-* [SimianArmy](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your AWS cloud operating in top form.
 * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
+* [SimianArmy](https://github.com/Netflix/SimianArmy) - A suite of tools for keeping your AWS cloud operating in top form.
 * [Thruk](http://www.thruk.org/) - Multibackend monitoring webinterface with support for Naemon, Nagios, Icinga and Shinken.
 * [Vector](https://github.com/Netflix/vector) - On-host performance monitoring framework which exposes hand picked high resolution system and application metrics.
 * [Xymon](http://www.xymon.com/) - Network monitoring inspired by Big Brother.
@@ -285,8 +285,8 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
 * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
 * [Diamond](https://github.com/BrightcoveOS/Diamond) - Python based statistic collection daemon.
-* [gcviz](https://github.com/Netflix/gcviz) - A a set of programs that help generate visualizations from Java's gc.log.
 * [Ganglia](http://ganglia.sourceforge.net/) - High performance, scalable RRD based monitoring for grids and/or clusters of servers. Compatible with Graphite using a single collection process.
+* [gcviz](https://github.com/Netflix/gcviz) - A a set of programs that help generate visualizations from Java's gc.log.
 * [Grafana](http://grafana.org/) - A Graphite & InfluxDB Dashboard and Graph Editor.
 * [Graphite](http://graphite.readthedocs.org/en/latest/) - Open source scaleable graphing server.
 * [InfluxDB](http://influxdb.com/) - Open source distributed time series database with no external dependencies.
